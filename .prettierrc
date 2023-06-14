@@ -1,5 +1,10 @@
 {
   "trailingComma": "none",
   "semi": false,
-  "singleQuote": true
+  "singleQuote": true,
+  "[typescriptreact]": {
+    "editor.formatOnSave": true
+  }
 }
+
+
